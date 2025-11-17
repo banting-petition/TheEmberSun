@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e84034-b016-4f28-b966-4c42262c4a1c" name="Changes" comment="Changed to svelte kit and everthing and changed it" />
+    <list default="true" id="82e84034-b016-4f28-b966-4c42262c4a1c" name="Changes" comment="Changed to svelte kit and everthing and changed it">
+      <change afterPath="$PROJECT_DIR$/src/lib/articles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/dashboard/[slug]/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/KenaiSpires.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/dashboard/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/dashboard/+page.svelte" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +49,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="AISelfReview" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -76,6 +86,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/stylesheets" />
@@ -102,6 +113,9 @@
       <workItem from="1762401965112" duration="6775000" />
       <workItem from="1762409435067" duration="317000" />
       <workItem from="1762443662379" duration="697000" />
+      <workItem from="1763236894098" duration="4463000" />
+      <workItem from="1763261319662" duration="4186000" />
+      <workItem from="1763323791910" duration="9272000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <option name="closed" value="true" />

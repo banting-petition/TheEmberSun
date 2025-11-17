@@ -23,25 +23,25 @@
     }
 </script>
 <form onsubmit={handleLogin} class="login-form">
-    <h1>Log On</h1>
+    <h1 class="center">Welcome to the EmberSun!</h1>
     {#if error}
         <p class="error">{error}</p>
         {/if}
-    <label>
+    <label class="font">
         Nom D'utilisateur
         <input type="text" bind:value={username} required placeholder="Anastasia"/>
     </label>
-    <label>
+    <label class="font">
         Mot De Passe
         <input type="password" bind:value={password} required placeholder="Mot De passe"/>
     </label>
-    <button type="submit">Log On</button>
+    <button type="submit" class="font">Entrer</button>
     <details style="margin-top:1rem; font-size:0.8rem; color:#666">
         <summary>Account</summary>
         <ul style="text-align: left;">
-            <li>alice/123</li>
-            <li>alice/456</li>
-            <li>alice/789</li>
+            <li class="font">alice/123</li>
+            <li class="font">alice/456</li>
+            <li class="font">alice/789</li>
         </ul>
     </details>
 </form>
