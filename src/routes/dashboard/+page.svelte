@@ -34,7 +34,7 @@
 <h1 class="font">Here are the latest articles.</h1>
 <div class="grid">
     {#each dashboard as article }
-        <a class="card" href="{`/articles/${article.slug}`}">
+        <a class="card" href="{`/dashboard/${article.slug}`}">
            <img src="/static/images/KenaiSpires.jpg" alt="Doon Harrow and Lina Mayfleet escape Ember/"/>
         <p>{dashboard.title}</p>
         </a>
