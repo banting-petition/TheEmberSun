@@ -21,6 +21,8 @@
 		"vite": "^7.1.10"
 	},
 	"dependencies": {
-		"@fontsource-variable/noto-sans": "^5.2.10"
+		"@fontsource-variable/noto-sans": "^5.2.10",
+		"@libsql/client": "^0.15.15",
+		"better-sqlite3": "^12.4.1"
 	}
 }

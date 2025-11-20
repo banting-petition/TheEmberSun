@@ -23,7 +23,7 @@
     }
 </script>
 <form onsubmit={handleLogin} class="login-form">
-    <h1 class="center">Welcome to the EmberSun!</h1>
+    <h1 class="center">Welcome to the EmberSun! Please Log In to access the Articles. </h1>
     {#if error}
         <p class="error">{error}</p>
         {/if}

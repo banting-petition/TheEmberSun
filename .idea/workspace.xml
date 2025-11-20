@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82e84034-b016-4f28-b966-4c42262c4a1c" name="Changes" comment="Changed to svelte kit and everthing and changed it">
+      <change afterPath="$PROJECT_DIR$/src/lib/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/api/articles/add/+server.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/dashboard/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/dashboard/+page.svelte" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/+page.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +112,8 @@
       <workItem from="1762443662379" duration="697000" />
       <workItem from="1763236894098" duration="4463000" />
       <workItem from="1763261319662" duration="4186000" />
-      <workItem from="1763323791910" duration="10979000" />
+      <workItem from="1763323791910" duration="11526000" />
+      <workItem from="1763354330353" duration="10478000" />
     </task>
     <task id="LOCAL-00001" summary="commt">
       <option name="closed" value="true" />
@@ -158,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763337740354</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed to svelte kit and everthing and changed it">
+      <option name="closed" value="true" />
+      <created>1763339464108</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1763339464108</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
